@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/admin/github-projects/todoist-scripts/venv/bin/python3",
+  "python.formatting.provider": "black"
+}
